@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Medium.ttf');
+}
+.latestLabel{
+    -fx-font-size: 15pt;
+    -fx-font-family: "Roboto" !important;
+}
+
+.searchLabel{
+    -fx-font-size: 15pt;
+    -fx-font-family: "Roboto";
+}
+.topLabel{
+    -fx-font-size: 15pt;
+    -fx-font-family: "Roboto";
+}
+
+.topBorder{
+    -fx-background-color: white;
+}
+.centerBorder{
+    -fx-background-color: #8e0000;
+}
+
+.bottomBorder{
+    -fx-background-color: #00aced;
+
+}
+
+.searchNowBtn > btn{
+    -fx-border-color: #00aced;
+}
+
+.emptyResult{
+    -fx-border-color: #00aced;
+
+}
+
