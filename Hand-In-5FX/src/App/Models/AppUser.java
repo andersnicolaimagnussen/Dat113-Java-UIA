@@ -19,8 +19,8 @@ public class AppUser {
         ApiSecret = apiSecret;
     }
 
-    private String ConsumerKey = "UviomhjcTancy3POn4pBdNZvv";
-    private String ApiSecret = "jVsPZ4N3HDE9Bq24oXpimeCtjEea2bOOWrlvyWSh5ca9fQplvX";
+    private String ConsumerKey = "secret";
+    private String ApiSecret = "secret";
 
     public String getAccessToken() {
         return AccessToken;
