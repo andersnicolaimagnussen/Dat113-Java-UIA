@@ -30,7 +30,7 @@ public class AppUser {
         AccessToken = accessToken;
     }
 
-    private String AccessToken = "820264180469133312-2gUISSewZED3ssjmH3liN6ZhseW4KSj";
+    private String AccessToken = "secret";
 
     public String getAccessTokenSecret() {
         return AccessTokenSecret;
@@ -40,7 +40,7 @@ public class AppUser {
         AccessTokenSecret = accessTokenSecret;
     }
 
-    private String AccessTokenSecret = "75zPZ0yoGxCWJl9dznqMMYuQLXFTPEx0dCI8C86H2xJ05";
+    private String AccessTokenSecret = "secret";
 
     public String getNamedTweets() {
         return namedTweets;
